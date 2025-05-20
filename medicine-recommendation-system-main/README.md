@@ -43,6 +43,3 @@ By following these instructions, you can deploy the application with the reduced
 
 ---
 
-## Contact 📝
-Saurabh Yadav - 
-* [sy669505@gmail.com](mailto:sy669505@gmail.com "sy669505@gmail.com")
